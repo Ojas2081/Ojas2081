@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Machine Learning NoSQL MongoDB(Data Scinece stuff)**
+- 🌱 I’m currently learning **Machine Learning, NoSQL and MongoDB(Data Scinece stuff)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
