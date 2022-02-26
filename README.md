@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Machine Learning NoSQL MongoDB(Data Scinece stuff)**
+- 🌱 I’m currently learning **Machine Learning NoSQL MongoDB(Data Science stuff)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -15,7 +15,17 @@
 
 ## 🚀 Languages and Tools:
 
-[![C Badge](https://img.shields.io/badge/-C-61DBFB?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![Java Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=black&logo=java&logoColor=e535ab)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#) [![MySql Badge](https://img.shields.io/badge/-Mysql-FFA500?style=for-the-badge&labelColor=black&logo=mysql&logoColor=FFA500)](#) <br/> [![Spring Badge](https://img.shields.io/badge/-Spring-90EE90?style=for-the-badge&labelColor=black&logo=spring&logoColor=90EE90)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-00008B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=00008B)](#) [![Git Badge](https://img.shields.io/badge/-Git-FF0000?style=for-the-badge&labelColor=black&logo=git&logoColor=FF0000)](#) [![Css3 Badge](https://img.shields.io/badge/-Css3-8B008B?style=for-the-badge&labelColor=black&logo=css3&logoColor=8B008B)](#) [![Html5 Badge](https://img.shields.io/badge/-Html5-FF5349?style=for-the-badge&labelColor=black&logo=html5&logoColor=FF5349)](#)
+[![C Badge](https://img.shields.io/badge/-C-61DBFB?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBFB)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=black&logo=java&logoColor=e535ab)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
+[![MySql Badge](https://img.shields.io/badge/-Mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
+[![Spring Badge](https://img.shields.io/badge/-Spring-90EE90?style=for-the-badge&labelColor=black&logo=spring&logoColor=90EE90)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-00008B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=00008B)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+[![Css3 Badge](https://img.shields.io/badge/-Css3-cccccc?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
+[![Html5 Badge](https://img.shields.io/badge/-Html5-FF5349?style=for-the-badge&labelColor=black&logo=html5&logoColor=FF5349)](#)
 <br/>
 
 <p align="left">
@@ -25,15 +35,6 @@
 </p>
 
 ## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Ojas2081/github-readme-stats"><img alt="Ojas Acharekar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ojas2081&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br/>
-  <a href="https://github.com/Ojas2081/github-readme-stats"><img alt="Ojas Acharekar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas2081&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
 
 <a href="https://github.com/Ojas2081/github-readme-activity-graph"><img alt="Ojas Acharekar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ojas2081&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
