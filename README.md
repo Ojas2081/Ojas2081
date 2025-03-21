@@ -18,7 +18,7 @@
 
 ## 🚀 Languages and Tools:
 
-[![PySpark Badge](https://img.shields.io/badge/-PySpark-61DBFB?style=for-the-badge&labelColor=E44D26&logo=apache-spark&logoColor=white)](#)
+[![PySpark Badge](https://img.shields.io/badge/-PySpark-61DBFB?style=for-the-badge&labelColor=FFFD26&logo=apache-spark&logoColor=white)](#)
 [![AWS Badge](https://img.shields.io/badge/-AWS-61DBFB?style=for-the-badge&labelColor=232F3E&logo=amazonaws&logoColor=white)](#)
 [![Terraform Badge](https://img.shields.io/badge/-Terraform-61DBFB?style=for-the-badge&labelColor=7B42BC&logo=terraform&logoColor=white)](#)
 [![Django Badge](https://img.shields.io/badge/-Django-61DBFB?style=for-the-badge&labelColor=092E20&logo=django&logoColor=white)](#)
