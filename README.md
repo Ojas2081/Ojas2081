@@ -18,9 +18,9 @@
 
 ## 🚀 Languages and Tools:
 
-[![PySpark Badge](https://img.shields.io/badge/-PySpark-FFFBFB?style=for-the-badge&labelColor=FFFD26&logo=apache-spark&logoColor=white)](#)
-[![AWS Badge](https://img.shields.io/badge/-AWS-61DBFB?style=for-the-badge&labelColor=232F3E&logo=amazonaws&logoColor=white)](#)
-[![Terraform Badge](https://img.shields.io/badge/-Terraform-61DBFB?style=for-the-badge&labelColor=7B42BC&logo=terraform&logoColor=white)](#)
+[![PySpark Badge](https://img.shields.io/badge/-PySpark-F1DB9B?style=for-the-badge&labelColor=E44D26&logo=apache-spark&logoColor=white)](#)
+[![AWS Badge](https://img.shields.io/badge/-AWS-E1D1F1B?style=for-the-badge&labelColor=232F3E&logo=amazonaws&logoColor=white)](#)
+[![Terraform Badge](https://img.shields.io/badge/-Terraform-B1D5EB?style=for-the-badge&labelColor=7B42BC&logo=terraform&logoColor=white)](#)
 [![Django Badge](https://img.shields.io/badge/-Django-61DBFB?style=for-the-badge&labelColor=092E20&logo=django&logoColor=white)](#)
 [![FastAPI Badge](https://img.shields.io/badge/-FastAPI-61DBFB?style=for-the-badge&labelColor=009688&logo=fastapi&logoColor=white)](#)
 [![JIRA Badge](https://img.shields.io/badge/-JIRA-61DBFB?style=for-the-badge&labelColor=0052CC&logo=jira&logoColor=white)](#)
