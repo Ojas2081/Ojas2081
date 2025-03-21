@@ -29,6 +29,7 @@
 [![AWS Badge](https://img.shields.io/badge/-AWS-E1D1F1B?style=for-the-badge&labelColor=232F3E&logo=amazonaws&logoColor=white)](#)
 [![Terraform Badge](https://img.shields.io/badge/-Terraform-B1D5EB?style=for-the-badge&labelColor=7B42BC&logo=terraform&logoColor=white)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-F2C811?style=for-the-badge&labelColor=336791&logo=postgresql&logoColor=white)](#)
+[![MS SQL Server Badge](https://img.shields.io/badge/-MS_SQL_Server-E9DBE9?style=for-the-badge&labelColor=CC2927&logo=microsoft-sql-server&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
 [![MySql Badge](https://img.shields.io/badge/-Mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
