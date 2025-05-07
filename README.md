@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 - 🌱 Completed Computer Engineering and have 3 years of experience as Software developer and Data Engineer
 
-- 🌱 Having experience in Python Frameworks like Django, FastAPI and PySpark
+- 🌱 Having experience in Python Frameworks like Django, FastAPI, Flask and PySpark
   
 - 🌱 Pursuing Masters in Data Analytics
 
